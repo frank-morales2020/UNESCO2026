@@ -1,3 +1,10 @@
+[![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)](https://github.com/frank-morales2020/MLxDL)
+[![Stars](https://img.shields.io/github/stars/frank-morales2020/MLxDL?style=flat-square&color=yellow)](https://github.com/frank-morales2020/MLxDL/stargazers)
+[![Forks](https://img.shields.io/github/forks/frank-morales2020/MLxDL?style=flat-square&color=lightgrey)](https://github.com/frank-morales2020/MLxDL/network/members)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Hugging Face Models](https://img.shields.io/badge/HF%20Models-47-blue?style=flat-square&logo=huggingface)](https://huggingface.co/frankmorales2020)
+[![Last Commit](https://img.shields.io/github/last-commit/frank-m
+
 # 🏛️ UNESCO2026 - Resilient AI Challenge Test Repository
 
 A dedicated testbed for validating the complete containerization workflow for the UNESCO Resilient AI Challenge. This repository demonstrates the successful splitting, uploading, and downloading of large-scale AI model containers using GitHub Releases.
