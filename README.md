@@ -1,7 +1,3 @@
-I can see your `README.md` file at the link, but it currently only contains the placeholder text **"DOCKE TEST"**. I'll provide you with the complete updated content you should add to make it informative for users.
-
-Here is the complete, updated content for your `README.md` file. You can copy and paste this directly into the file on GitHub.
-
 ```markdown
 # UNESCO2026 - Resilient AI Challenge Test Repository
 
