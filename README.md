@@ -284,8 +284,11 @@ All benchmarks were validated on:
 ## 👤 Author
 
 **Frank Morales Aguilera**  
-Sovereign Machine Lab  
+Founder and CEO
+[Sovereign Machine Lab](https://sovereign-machine-lab.ai/) 
 [frank.morales@sovereign-machine-lab.ai](mailto:frank.morales@sovereign-machine-lab.ai)
+https://sovereign-machine-lab.ai/
+
 
 ---
 
