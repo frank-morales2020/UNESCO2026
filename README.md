@@ -293,9 +293,14 @@ Founder and CEO
 
 ---
 
+
 ## 📜 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+Apache License 2.0 - see [LICENSE](LICENSE) file for details.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
+
+https://www.apache.org/licenses/LICENSE-2.0.txt
+
 
 ---
 
