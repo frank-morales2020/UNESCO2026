@@ -89,7 +89,6 @@ A fully containerized and validated image-to-text model.
 | Metric | Value | Target | Status |
 |--------|-------|--------|--------|
 | **RAM Usage** | 2.23 GB | < 4.0 GB | ✅ PASS |
-| **GPU Peak** | 6.77 GB | (monitored) | ⚠️ Note |
 | **RTF** | 0.408 sec/word | < 1.0 | ✅ PASS |
 | **Quality Score** | 0.857 | > 0.5 | ✅ PASS |
 | **Energy Consumption** | 0.000217 kWh | | 🌿 |
@@ -107,8 +106,6 @@ A fully containerized and validated image-to-text model.
 | **TEXT** | Sarvam-1 | `Sarvam-1_UNESCO_FrankMorales.zip` | 0.992 | 1.67 GB | 0.079 | ✅ PASS |
 | **AUDIO** | Voxtral | `Voxtral_UNESCO_FrankMorales.zip` | 0.807 | 2.78 GB | 0.516 | ✅ PASS |
 | **VISION** | Gemma 3n | `Gemma3n_UNESCO_FrankMorales.zip` | 0.857 | 2.23 GB* | 0.408 | ✅ PASS |
-
-*RAM usage, GPU peak at 6.77 GB
 
 ---
 
