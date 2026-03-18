@@ -1,7 +1,7 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)](https://github.com/frank-morales2020/MLxDL)
 [![Stars](https://img.shields.io/github/stars/frank-morales2020/MLxDL?style=flat-square&color=yellow)](https://github.com/frank-morales2020/MLxDL/stargazers)
 [![Forks](https://img.shields.io/github/forks/frank-morales2020/MLxDL?style=flat-square&color=lightgrey)](https://github.com/frank-morales2020/MLxDL/network/members)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Hugging Face Models](https://img.shields.io/badge/HF%20Models-47-blue?style=flat-square&logo=huggingface)](https://huggingface.co/frankmorales2020)
 
 # 🏛️ UNESCO2026 - Resilient AI Challenge Test Repository
@@ -500,10 +500,15 @@ Founder and CEO
 
 ## 📜 License
 
-Apache License 2.0 - see [LICENSE](LICENSE) file for details.
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
+© 2026 Frank Morales Aguilera — [Sovereign Machine Lab](https://sovereign-machine-lab.ai/)
+
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
+**All rights reserved. Provided for evaluation purposes only.**
+
+You may share and adapt this material with appropriate attribution, but **commercial use is strictly prohibited**.  
+→ [View Full License](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 ---
 
