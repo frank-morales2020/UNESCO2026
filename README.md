@@ -501,12 +501,14 @@ All benchmarks were validated on:
 
 ## 👤 Author
 
-**Frank Morales Aguilera**  
+**Frank Morales Aguilera, SMIEEE**  
 Founder and CEO
 
 [Sovereign Machine Lab](https://sovereign-machine-lab.ai/)
 
 [frank.morales@sovereign-machine-lab.ai](mailto:frank.morales@sovereign-machine-lab.ai)
+
+[Linkedin](https://www.linkedin.com/in/frank-morales1964/)
 
 ---
 
