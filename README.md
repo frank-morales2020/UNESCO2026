@@ -9,19 +9,15 @@
 A comprehensive testbed for validating the complete containerization workflow for the UNESCO Resilient AI Challenge across **TEXT, AUDIO, and VISION** modalities. This repository demonstrates the successful splitting, uploading, downloading, and validation of large-scale AI model containers using GitHub Releases and udocker.
 
 
-**IMPORTANT NOTICE – IP PROTECTION DURING EVALUATION**  
+> [!IMPORTANT]  
+> **IP PROTECTION DURING EVALUATION**  
+> To protect intellectual property during the active UNESCO Resilient AI Challenge period (March–May 2026), the full submission ZIP packages and complete container artifacts (split parts) are provided **privately** to UNESCO judges and organizers only via secure submission links or the official portal.
 
-<span style="color: #d32f2f; font-weight: bold; background-color: #ffebee; padding: 8px 12px; border-left: 5px solid #d32f2f; display: block; margin: 12px 0;">
-To protect intellectual property during the active UNESCO Resilient AI Challenge period (March–May 2026), the full submission ZIP packages and complete container artifacts (split parts) are provided <strong>privately</strong> to UNESCO judges and organizers only via secure submission links or the official portal.
-</span>
+> [!NOTE]  
+> Public downloads of Releases and ZIPs will be enabled **after May 30, 2026** (submission close), or earlier if permitted by challenge rules.
 
-<span style="color: #c2185b; font-weight: bold; background-color: #fce4ec; padding: 8px 12px; border-left: 5px solid #c2185b; display: block; margin: 8px 0;">
-Public downloads of Releases and ZIPs will be enabled <strong>after May 30, 2026</strong> (submission close), or earlier if permitted by challenge rules.
-</span>
-
-<span style="color: #1976d2; font-weight: bold; background-color: #e3f2fd; padding: 8px 12px; border-left: 5px solid #1976d2; display: block; margin: 8px 0;">
-For evaluation access: Use the official submission system or contact organizers directly. The repository documentation, validation notebooks, metrics, and methodology remain fully public for transparency.
-</span>
+> [!TIP]  
+> For evaluation access: Use the official submission system or contact organizers directly. The repository documentation, validation notebooks, metrics, and methodology remain fully public for transparency.
 
 ---
 
