@@ -510,6 +510,13 @@ Founder and CEO
 
 [Linkedin](https://www.linkedin.com/in/frank-morales1964/)
 
+[Google Scholar](https://scholar.google.ca/citations?user=IlTdC5IAAAAJ&hl=en)
+
+[Medium](https://medium.com/@frankmorales_91352)
+
+[Thinkers360](https://www.thinkers360.com/tl/profiles/view/25153)
+
+
 ---
 
 ## 📜 License
