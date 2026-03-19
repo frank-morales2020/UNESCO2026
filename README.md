@@ -95,7 +95,7 @@ GitHub Release → Download Parts → Reassemble Container → Run Benchmark →
 
 #### Phase 1 — GitHub Release Download
 
-A smart downloader auto-detects all parts by incrementing part numbers until a download fails, with automatic retry on failure.
+A smart downloader automatically detects all parts by incrementing part numbers until a download fails, with automatic retries on failure.
 
 | Modality | Parts | Total Size | Download Time | Speed |
 |----------|-------|-----------|--------------|-------|
