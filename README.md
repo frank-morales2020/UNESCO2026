@@ -10,14 +10,15 @@ A comprehensive testbed for validating the complete containerization workflow fo
 
 
 > [!IMPORTANT]  
-> **IP PROTECTION DURING EVALUATION**  
+> **IMPORTANT NOTICE – IP PROTECTION DURING EVALUATION**  
 > To protect intellectual property during the active UNESCO Resilient AI Challenge period (March–May 2026), the full submission ZIP packages and complete container artifacts (split parts) are provided **privately** to UNESCO judges and organizers only via secure submission links or the official portal.
 
 > [!NOTE]  
-> Public downloads of Releases and ZIPs will be enabled **after May 30, 2026** (submission close), or earlier if permitted by challenge rules.
+> **Public downloads** of Releases and ZIPs will be enabled **after May 30, 2026** (submission close), or earlier if permitted by challenge rules.
 
 > [!TIP]  
-> For evaluation access: Use the official submission system or contact organizers directly. The repository documentation, validation notebooks, metrics, and methodology remain fully public for transparency.
+> **For evaluation access:** Use the official submission system or contact organizers directly.  
+> The repository documentation, validation notebooks, metrics, and methodology remain fully public for transparency.
 
 ---
 
